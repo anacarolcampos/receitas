@@ -1,5 +1,4 @@
-```markdown
-# As Receitas da Vovó Ana - Um Banquete de Sabores e Código!
+**As Receitas da Vovó Ana - Um Banquete de Sabores e Código!**
 
 **️ Bem-vindo(a) ao mundo delicioso das Receitas da Vovó Ana!**
 
@@ -36,15 +35,3 @@ Se você não encontrar a receita que procura, tente usar palavras-chave diferen
 **Vamos cozinhar juntos?** ‍‍
 
 **#receitas #vovóana #culinária #javascript #html #css #open-source**
-
----
-
-**Observações:**
-
-* **Personalize:** Adapte o README com mais detalhes sobre o projeto, como a história da Vovó Ana, o motivo de criar o projeto, etc.
-* **Imagens:** Adicione imagens para deixar o README mais atrativo.
-* **Licença:** Especifique a licença do projeto (ex: MIT, GPL).
-* **Agradecimentos:** Agradeça a quem contribuiu para o projeto.
-
-**Com esse README, você terá um guia completo e divertido para o seu projeto!**
-```
