@@ -1,4 +1,4 @@
-**As Receitas da Vovó Ana - Um Banquete de Sabores e Código!**
+**As Receitas da Vovó Ana - Um Banquete de Sabores e Código - Imersão Dev com Google Gemini e Alura**
 
 **️ Bem-vindo(a) ao mundo delicioso das Receitas da Vovó Ana!**
 
